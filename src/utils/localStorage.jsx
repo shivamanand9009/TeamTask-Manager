@@ -47,7 +47,7 @@ const employees = [
     {
         "id": 2,
         "firstName": "Anand",
-        "email": "employee2@Anand.com",
+        "email": "employee2@shivam.com",
         "password": "123",
         "taskCounts": {
             "active": 1,
