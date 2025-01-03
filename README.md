@@ -9,7 +9,7 @@ TeamTask Manager is a lightweight, user-friendly web application for managing em
 ### Admin Features
 - **Task Management**: Create, update, assign, and delete employee tasks.
 - **Dashboard**: Monitor task progress and visualize employee performance metrics.
-- **Employee Overview**: View statistics of employee activities, including completed and failed tasks.
+- **Employee Overview**: View data of employee activities, including completed and failed tasks.
 
   ## Admin's Id & password
   - Id: admin@shivam.com
