@@ -6,7 +6,7 @@ import { useContext } from 'react'
 import { AuthContext } from './context/AuthProvider'
 import { Toaster } from 'react-hot-toast'
 import { validateCredentials } from './utils/authUtils'
-import Login from './Components/Auth/Login'
+import Login from './components/Auth/Login'
 
 const App = () => {
   const [user, setUser] = useState("")
