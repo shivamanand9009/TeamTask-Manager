@@ -12,8 +12,8 @@ TeamTask Manager is a lightweight, user-friendly web application for managing em
 - **Employee Overview**: View statistics of employee activities, including completed and failed tasks.
 
   ## Admin's Id & password
-  Id: admin@shivam.com
-  password: 123
+  - Id: admin@shivam.com
+  - password: 123
   
 
 ### Employee Features
@@ -22,8 +22,8 @@ TeamTask Manager is a lightweight, user-friendly web application for managing em
 - **Performance Overview**: Track individual performance and completion rates.
 
   ## Employees's Id & password
-  Id: employee1@shivam.com, employee2@shivam.com, employees3@shivam.com, ......till 5 Employees
-  password: 123
+  - Id: employee1@shivam.com, employee2@shivam.com, employees3@shivam.com, ......till 5 Employees
+  - password: 123
 ---
 
 ## Tools & Technologies
